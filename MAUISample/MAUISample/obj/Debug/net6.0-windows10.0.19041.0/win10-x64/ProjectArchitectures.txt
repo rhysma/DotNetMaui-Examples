@@ -1,0 +1,1 @@
+C:\Users\rhysm\source\repos\MAUISample\MAUISample\MAUISample.csproj;x64
